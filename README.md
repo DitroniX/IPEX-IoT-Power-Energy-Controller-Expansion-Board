@@ -2,6 +2,8 @@
 
 New Product - Further details to follow
 
+**NEW FIRMWARE**: [**FliX**](https://github.com/DitroniX/FLIX-DitroniX-Power-Energy-Monitors-Firmware) is an Integrated Firmware for DitroniX Power Energy Monitor SDK Boards
+
 
 **IPEX Production - 3D Prototype Beta Board**
 ![Display-Type-B](https://github.com/DitroniX/IPEX-IoT-Power-Energy-Controller-Expansion-Board/blob/main/Datasheets%20and%20Information/IPEX%20Expansion%20Interface%20Board%20IO%201.2306.101%20-%20Beta%203D.png?raw=true)
